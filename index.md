@@ -2,12 +2,22 @@
 layout: page
 ---
 
-# About Me
+# 关于我
+
+2009-2013 本科 西安电子科技大学 电子信息科学与技术
+2013-2016 硕士 上海交通大学 信息与通信工程
+
+
+
 
 <img src="/images/school_small.png"  class="floatpic">
-Hello world! My name is Xuguo Tang. I completed my bachelor's degree in Faculty of Science at Xi'Dian University of science and technology of the electronics information on July.1 2013. Now I am a 2nd year postgraduate student in [SJTU]. Although My research field is Multimedia, Hybrid network, I love Web Software Development. I'am now looking for a job about Web Software Development. 
 
-I'm a big fan of GitHub, Python, and Linux. In my free time, I spend much time working in writing blog, reading books to improve myself. Python is my favorite programming language now.
+目前在一家游戏公司，担任WEB开发工程师，负载公司所有WEB产品的技术研发，包括官网，专题活动，内部系统等。
+
+业余时间喜欢研究新技术。目前主要用的是PHP，前后端都写。有一定的redis和Mysql设计使用经验。
 
 
-[SJTU]:http://www.sjtu.edu.cn
+
+
+
+
